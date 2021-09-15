@@ -49,6 +49,7 @@ Cycle through supported themes by changing the `\theme{<theme>}` variable at the
 * `coral`
 * `earth`
 * `framed`
+* `itemcon`
 * `gray`
 * `minimal`
 * `onyx`
@@ -60,6 +61,7 @@ Cycle through supported themes by changing the `\theme{<theme>}` variable at the
 ![coral](previews/coral.png)
 ![earth](previews/earth.png)
 ![framed](previews/framed.png)
+![itemcon](previews/itemcon.png)
 ![gray](previews/gray.png)
 ![minimal](previews/minimal.png)
 ![onyx](previews/onyx.png)
